@@ -1,0 +1,7 @@
+#! /bin/bash 
+"cd /home/lndlong/Desktop/clash/Clash for Windows-0.19.14-x64-linux/"
+"./cfw&"
+C+Z
+"bg"
+"disown"
+"exit"

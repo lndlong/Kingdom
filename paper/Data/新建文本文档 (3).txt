@@ -1,0 +1,14 @@
+https://www.jianshu.com/p/38df71cad1f6
+
+问题：航班乘客预测 数据：1949 到 1960 一共 12 年，每年 12 个月的数据，一共 144 个数据，单位是 1000 下载地址 目标：预测国际航班未来 1 个月的乘客数
+
+
+https://blog.csdn.net/qq_35649669/article/details/89575949?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.edu_weight&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.edu_weight
+
+
+
+https://zh-cn.optuna.org/tutorial/sampler.html
+
+
+
+https://blog.csdn.net/qq_20259459/article/details/70316511
